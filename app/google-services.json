@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215703545027",
+    "project_id": "puevents-f00aa",
+    "storage_bucket": "puevents-f00aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215703545027:android:b491dc5724db5169a4ae76",
+        "android_client_info": {
+          "package_name": "com.example.pu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApywGM4BHCF7L-bKoHkRL77sfeeOlo8Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
